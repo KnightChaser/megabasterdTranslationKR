@@ -98,6 +98,7 @@
         _addTranslation("FILE WITH SAME NAME AND SIZE ALREADY EXISTS", "같은 이름과 크기를 가진 파일이 이미 존재합니다!");
         _addTranslation("File", "파일");
         _addTranslation("Files", "파일들");
+	_addTranslation("Finish:", "완료:");
         _addTranslation("Finishing calculating CBC-MAC code (this could take a while) ... ***DO NOT EXIT MEGABASTERD NOW***", "CBC-MAC 모드 연산 마무리중 (시간이 좀 걸릴 수 있습니다) ... **지금 MEGABASTERD를 종료하지 마세요.**");
         _addTranslation("Folder is not readable!", "폴더를 읽을 수 없습니다!");
         _addTranslation("Folder link detected!", "폴더 링크 감지됨!");
@@ -134,7 +135,6 @@
         _addTranslation("Max parallel downloads:", "최대 동시 다운로드:");
         _addTranslation("Max parallel uploads:", "최대 동시 업로드:");
         _addTranslation("Max speed (KB/s):", "최대 속도 (KB/s):");
-        _addTranslation("MC reverse mode: ON (port ", "MC 리버스 모드: 켜짐 (포트 ");
         _addTranslation("MC reverse mode: OFF (port ", "MC 리버스 모드: 꺼짐 (포트 ");
         _addTranslation("MC reverse mode: OFF", "MC 리버스 모드: 꺼짐");
         _addTranslation("MC reverse mode: ON (port ", "MC 리버스 모드: 켜짐 (포트 ");
@@ -304,6 +304,6 @@
         _addTranslation("Yes", "진행");
         _addTranslation("Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.", "또 다른 (그리고 이상한) 크로스플랫폼 MEGA 다운로더/업로더/스트리밍 세트 프로그램");
         _addTranslation("You've tried to login too many times. Wait an hour.", "로그인을 너무 많이 시도했습니다. 한시간 기다리세요.");
-        _addTranslation("You have the latest version ;)", "이미 최신 버전입니다 ;)")
+        _addTranslation("You have the latest version ;)", "이미 최신 버전입니다 ;)");
         _addTranslation("Your ELC accounts:", "귀하의 ELC 계정");
         _addTranslation("Your MEGA accounts:", "귀하의 MEGA 계정");

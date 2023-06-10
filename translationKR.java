@@ -303,8 +303,7 @@
         _addTranslation("WARNING: Using proxies or VPN to bypass MEGA's daily download limitation may violate its Terms of Use. USE THIS OPTION AT YOUR OWN RISK.", "주의: 프록시나 VPN을 사용하는 것은 MEGA의 일일 다운로드 제한을 우회하는 것으로 사용약관 위반의 소지가 있습니다. 이 점을 숙지하고 옵션을 선택하세요.");
         _addTranslation("Yes", "진행");
         _addTranslation("Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.", "또 다른 (그리고 이상한) 크로스플랫폼 MEGA 다운로더/업로더/스트리밍 세트 프로그램");
-        _addTranslation("You've tried to login too many times. Wait an hour.", "로그인을 너무 많이 시도했습니다. 한시간 기다리세요., "");
+        _addTranslation("You've tried to login too many times. Wait an hour.", "로그인을 너무 많이 시도했습니다. 한시간 기다리세요.");
         _addTranslation("You have the latest version ;)", "이미 최신 버전입니다 ;)")
         _addTranslation("Your ELC accounts:", "귀하의 ELC 계정");
         _addTranslation("Your MEGA accounts:", "귀하의 MEGA 계정");
-

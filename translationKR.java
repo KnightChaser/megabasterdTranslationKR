@@ -31,7 +31,7 @@
         _addTranslation("CANCEL RETRY", "재시도 취소");
         _addTranslation("CANCEL UPLOAD", "업로드 취소");
         _addTranslation("Cancel", "취소");
-        _addTranslation("CancelANCEL", "취소");
+        _addTranslation("CANCEL", "취소");
         _addTranslation("Change it", "변경하기");
         _addTranslation("Change output folder", "출력 폴더 변경");
         _addTranslation("Changing output folder...", "출력 폴더 변경...");
@@ -81,7 +81,7 @@
         _addTranslation("Exit from MegaBasterd", "MegaBasterd에서 나가기");
         _addTranslation("EXIT NOW", "지금 나가기");
         _addTranslation("EXIT", "나가기");
-        _addTranslation("EXITxit", "나가기");
+        _addTranslation("Exit", "나가기");
         _addTranslation("EXPORT SETTINGS", "설정 내보내기");
         _addTranslation("FATAL ERROR! ", "심각한 오류!");
         _addTranslation("File already exists!", "파일이 이미 존재합니다!");

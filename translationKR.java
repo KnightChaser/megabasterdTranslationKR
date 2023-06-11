@@ -2,7 +2,7 @@
         _addTranslation(" secs...)", " 초...)");
         _addTranslation("(FROZEN) Waiting to start (", "(정지됨) 시작 대기중");
         _addTranslation("(FROZEN) Waiting to start...", "(정지됨) 시작 대기중...");
-        _addTranslation(").\nDo you want to import all current settings and transfers from the previous version?\nWARNING: INCOMPATIBILITIES MAY EXIST BETWEEN VERSIONS.", ").\n이전버전의 프로그램으로부터 모든 혀재의 설정과 전송목록을 불러오고 싶으신가요?\n경고: 호환 불가능한 부분이 버전 간에 있을 수 있습니다.");
+        _addTranslation(").\nDo you want to import all current settings and transfers from the previous version?\nWARNING: INCOMPATIBILITIES MAY EXIST BETWEEN VERSIONS.", ").\n이전버전의 프로그램으로부터 모든 현재의 설정과 전송목록을 불러오고 싶으신가요?\n경고: 호환 불가능한 부분이 버전 간에 있을 수 있습니다.");
         _addTranslation("About", "더 알아보기");
         _addTranslation("Account:", "계정:");
         _addTranslation("Accounts", "계정");
@@ -14,7 +14,7 @@
         _addTranslation("Advanced", "고급");
         _addTranslation("ALL COPIED!", "모두 복사됨!");
         _addTranslation("All your current settings and accounts will be deleted after import. (It is recommended to export your current settings before importing). \n\nDo you want to continue?", "귀하의 모든 현재 설정과 계정들은 불러오기 이후 지워질 예정입니다. (불러오기 전에 현재 설정을 내보내는 것을 추천합니다.). \n\n계속하실 건가요?");
-        _addTranslation("ALL YOUR SETTINGS, ACCOUNTS AND TRANSFERENCES WILL BE REMOVED. (THIS CAN'T BE UNDONE)\n\nDo you want to continue?", "귀하의 모든 설정, 계정, 그리고 모든 데이터 이동들이 삭제될 예정입니다. (진행하면 되돌릴 수 없습니다.)\n\n계속하실 건가요?");
+        _addTranslation("ALL YOUR SETTINGS, ACCOUNTS AND TRANSFERENCES WILL BE REMOVED. (THIS CAN'T BE UNDONE)\n\nDo you want to continue?", "귀하의 모든 설정, 계정, 그리고 모든 데이터 전송 내역들이 삭제될 예정입니다. (진행하면 되돌릴 수 없습니다.)\n\n계속하실 건가요?");
         _addTranslation("All your transferences have finished", "모든 전송이 종료되었습니다.");
         _addTranslation("Allow using MEGA accounts for download/streaming", "MEGA 계정의 다운로드/스트리밍 허용하기");
         _addTranslation("ALTERNATIVE", "대체");
@@ -111,7 +111,7 @@
         _addTranslation("Host", "호스트");
         _addTranslation("How do you want to proceed?", "어떻게 진행하시겠습니까?");
         _addTranslation("Hungarian", "헝가리어");
-        _addTranslation("If you DO NOT want to transfer some folder or file you can REMOVE it (to select several items at the same time use CTRL + LMOUSE).", "몇몇 폴더나 파일을 이동하고 싶지 전송하고 싶지 않으시다면 삭제하셔도 됩니다. (몇몇 항목을 동시에 선택하려면 CTRL + 마우스를 사용하세요.)");
+        _addTranslation("If you DO NOT want to transfer some folder or file you can REMOVE it (to select several items at the same time use CTRL + LMOUSE).", "몇몇 폴더나 파일을 전송하고 싶지 않으시다면 삭제하셔도 됩니다. (몇몇 항목을 동시에 선택하려면 CTRL + 마우스를 사용하세요.)");
         _addTranslation("IMPORT ACCOUNTS (FILE)", "계정 불러오기 (파일)");
         _addTranslation("IMPORT SETTINGS", "중요한 설정들");
         _addTranslation("It seems MegaBasterd is just finishing uploading some files.\n\nIF YOU EXIT NOW, THOSE UPLOADS WILL FAIL.\n\nDo you want to continue?", "MegaBasterd가 방금 무슨 파일을 올린 것 같습니다.\n\n지금 나가신다면, 저 업로드들은 실패하게 됩니다.\n\n계속하실 건가요?");
@@ -120,6 +120,7 @@
         _addTranslation("Italian", "이탈리아어");
         _addTranslation("Joining file chunks, please wait...", "파일 청크 합치는 중, 기다려주세요...");
         _addTranslation("Keep temp file", "임시 파일 유지");
+        _addTranslation("Korean", "한국어");
         _addTranslation("Language:", "언어:");
         _addTranslation("Let's dance, baby", "오예, 시작해보자고");
         _addTranslation("Limit download speed", "다운로드 속도 제한");
@@ -155,10 +156,10 @@
         _addTranslation("MERGE FILE", "파일 합치기");
         _addTranslation("MERGING FILE...", "파일 합치는 중");
         _addTranslation("Monitor clipboard looking for new links", "모니터 클립보드가 새 링크를 찾아보는 중");
-        _addTranslation("New download", "새 다운로드");
+        _addTranslation("New download", "새로운 다운로드");
         _addTranslation("New pass:", "새로운 비밀번호:");
-        _addTranslation("New streaming", "새 스트리밍");
-        _addTranslation("New upload", "새 업로드");
+        _addTranslation("New streaming", "새로운 스트리밍");
+        _addTranslation("New upload", "새로운 업로드");
         _addTranslation("No MEGA accounts available (Go to Settings > Accounts)", "사용 가능한 MEGA 계정이 없습니다 (설정 > 계정 항목에서 확인)");
         _addTranslation("No", "아니오");
         _addTranslation("Note: enable it in order to mitigate bandwidth limit. (Multi slot required).", "참고: 대역폭 제한폭을 완화하려면 이것을 활성화하세요 (멀티슬롯 필수)");
@@ -206,7 +207,7 @@
         _addTranslation("Remove all no running uploads", "모든 진행중인 업로드 삭제");
         _addTranslation("Remove all no running uploads?", "현재 진행중인 모든 업로드를 제거할까요?");
         _addTranslation("Remove selected", "선택한 항목 삭제하기");
-        _addTranslation("REMOVE THIS", "삭제하기");
+        _addTranslation("REMOVE THIS", "이 항목 삭제하기");
         _addTranslation("RESET ACCOUNTS", "계정 초기화");
         _addTranslation("RESET MEGABASTERD", "MEGABASTERD 초기화");
         _addTranslation("Restart required", "재시작 필요함");
